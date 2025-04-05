@@ -1,12 +1,58 @@
-# React + Vite
+# 📝 RegistrationForm App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a **React**-based registration form project built using ⚡ **Vite** and styled with 🎨 **Bootstrap**. The form includes fields like name, email, gender, and hobbies with dynamic handling and smooth UI.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- ✅ Responsive registration form with Bootstrap 5
+- 📋 Dynamic checkbox handling (e.g., Reading, Dance)
+- 🎛️ Controlled components and state management
+- 🧹 Modular components for scalability
+- ⚡ Fast development with Vite
+- 🌐 GitHub integrated
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📁 Folder Structure
+
+```
+registrationform/
+├── node_modules/
+├── public/
+├── src/
+│   ├── assets/
+│   ├── components/
+│   │   ├── CheckList.jsx
+│   │   ├── RegistrationForm.jsx
+│   │   └── View.jsx
+│   ├── App.css
+│   ├── App.jsx
+│   ├── index.css
+│   ├── main.jsx
+├── .gitignore
+├── index.html
+├── package.json
+├── vite.config.js
+└── README.md
+```
+
+## 🧰 Tech Stack
+
+- ⛺️ React.js
+- ⚡ Vite
+- 🎨 Bootstrap 5.3.3
+- 🧠 JavaScript (ES6+)
+
+---
+
+## 📸 Screenshots
+
+📍 *Checkbox Selection Example:*  
+![image](https://github.com/user-attachments/assets/3112f792-f9c4-4cc2-9ffb-fb9acc45e81d)
+
+![image](https://github.com/user-attachments/assets/60e0d6af-1e75-4fe1-bffb-c2b67aa9a4f0)
+
+
+
