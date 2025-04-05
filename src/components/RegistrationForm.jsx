@@ -75,7 +75,7 @@ function Form() {
                             </label>
                             <input
                                 type="text"
-                                placeholder="Enter Username"
+                                placeholder="Enter First Name"
                                 className="form-control text-dark fs-5 shadow"
                                 id="exampleInputUsername1"
                                 name="fname"
@@ -90,7 +90,7 @@ function Form() {
                             </label>
                             <input
                                 type="text"
-                                placeholder="Enter Username"
+                                placeholder="Enter Last Name"
                                 className="form-control text-dark fs-5 shadow"
                                 id="exampleInputUsername1"
                                 name="lname"
